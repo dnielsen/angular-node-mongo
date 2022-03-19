@@ -1,0 +1,18 @@
+<h1>Tutorial Demo</h1>
+Title: <input type="text" [(ngModel)]="title"> <span *ngIf="errormessage != ''">{{errormessage}}</span>
+<br>
+<br>
+<button (click)="onAdd()">Add</button>
+<br><br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let data of allData;">
+      <td>{{data.title}}</td>
+    </tr>
+  </tbody>
+</table>
