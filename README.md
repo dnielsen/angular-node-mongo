@@ -1,10 +1,9 @@
 # angular-node-mongo
 
-If you dont have NodeJs in your system. you can dowload from this link<br/>
-https://nodejs.org/en/download/
+If you dont have NodeJs in your system. you can dowload from here: https://nodejs.org/en/download/<br/>
 
-also, you dont have mongodb in your system. you can dowload from this link<br/>
-https://www.mongodb.com/try/download/community
+If you dont have mongodb in your system, you can dowload from here: https://www.mongodb.com/try/download/community<br/>
+Further instructions here: https://www.mongodb.com/docs/manual/installation/
 
 First Your download the code
 
